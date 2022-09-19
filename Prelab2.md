@@ -1,4 +1,5 @@
-# *Week-2 PreLab*
+## **Week-2 PreLab** ##
+### Berkehanpiç ### 
 ```
 Processor	Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz  4 GHz
 Installed 16,0 GB (kullanılabilir: 15,8 GB)
